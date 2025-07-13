@@ -28,11 +28,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" height="40" width="45" alt="SQL logo"  />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="40" width="40" alt="typescript logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="40" width="55 alt="PHP logo"/>
   <img src="https://miro.medium.com/v2/resize:fit:1000/1*Yafu7ihc1LFuP4azerAa4w.png" height="40" width="55 alt="React logo"/>
-  <img src="https://res.cloudinary.com/ddxwdqwkr/image/upload/v1690837534/patterns.dev/Images/vue/intro/vue.png" height="40" width="60" alt="Vue logo"/>
   <img src="https://neginet.com/wp-content/uploads/2018/03/nodejs-logo.png" height="40" width="40" alt="Node logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#F05138" rx="60"/><path fill="#fff" d="M202.677 158.04C202.918 157.074 203.159 156.109 203.401 155.144C214.017 112.92 188.2 62.7333 144.287 36.4336C163.589 62.492 172.034 94.0999 164.554 121.606C163.83 124.019 163.106 126.432 162.141 128.845C161.176 128.121 159.97 127.397 158.281 126.673C158.281 126.673 114.609 99.6494 67.3176 52.1169C66.1112 50.9105 92.6522 89.9981 122.571 121.606C108.336 113.644 69.0066 84.9313 43.9133 62.2508C47.0499 67.3177 50.6692 72.3846 54.5297 76.9689C75.2799 103.51 102.545 136.083 135.118 161.176C112.196 175.171 79.8643 176.377 47.7738 161.176C39.8115 157.557 32.3318 152.973 25.3346 147.906C38.8464 169.621 59.8379 188.441 85.4137 199.54C115.815 212.569 146.217 211.846 168.656 199.781C168.656 199.781 168.897 199.781 168.897 199.54C169.862 199.058 170.828 198.334 171.793 197.851C182.65 192.302 203.883 186.752 215.465 208.95C218.843 214.017 224.875 185.063 202.677 158.04Z"/></svg>
+     
 </div>
 
 ###
